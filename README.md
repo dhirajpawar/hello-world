@@ -1,1 +1,4 @@
-# hello-world
+#<stdio.h>
+{
+    print(hello world,,,,);
+}    
